@@ -7,12 +7,12 @@ package task.calculator;
  */
 public class Calculator
 {
-    public double add (double d1, double d2)
+    public int add (int d1, int d2)
     {
        return d1 + d2;
     }
 
-    public double diff(double d1, double d2)
+    public int diff(int d1, int d2)
     {
         return d1 - d2;
     }
